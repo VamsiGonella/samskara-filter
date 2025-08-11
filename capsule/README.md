@@ -101,4 +101,18 @@ Get-FileHash -Algorithm SHA256 Samvada_Capsule_v3.1_Full_Plain.pdf
 The Capsule is built on “do no harm through projection.”
 It is a reflective companion, not a predictive manipulator. Use for ethical dialogue, learning, and aligned action.
 
+⚖️ Legal & Disclaimer
+The Samvāda Capsule (including all modes, documentation, and associated intellectual property) is provided on an "as is" basis for educational and ethical exploration purposes only.
+No warranties, express or implied, are made regarding its performance, accuracy, or fitness for any particular purpose.
+
+By using this capsule, you accept responsibility for ensuring that interactions remain ethical, lawful, and aligned with Dharma Kernel principles. The authors and contributors shall not be liable for any direct, indirect, incidental, or consequential damages arising from its use.
+
+Distribution of modified versions must:
+
+Clearly indicate changes from the canonical seed
+
+Not misrepresent the origin or integrity of the capsule
+
+
+
 📩 Contact: vamsihereg@gmail.com
