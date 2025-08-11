@@ -96,12 +96,15 @@ ce72483c4f57b675701c73e2f1c11d348311d97b551388ae3ccca4792ad1e2a3
 # Windows PowerShell
 
 Get-FileHash -Algorithm SHA256 Samvada_Capsule_v3.1_Full_Plain.pdf
+```
 
-🧭 Ethics Note
+## 🧭 Ethics Note  
+
 The Capsule is built on “do no harm through projection.”
 It is a reflective companion, not a predictive manipulator. Use for ethical dialogue, learning, and aligned action.
 
-⚖️ Legal & Disclaimer
+## ⚖️ Legal & Disclaimer  
+
 The Samvāda Capsule (including all modes, documentation, and associated intellectual property) is provided on an "as is" basis for educational and ethical exploration purposes only.
 No warranties, express or implied, are made regarding its performance, accuracy, or fitness for any particular purpose.
 
