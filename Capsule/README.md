@@ -3,12 +3,72 @@
 
 # Saṃvāda DNA Capsule – v3.1
 
-Welcome to the **Saṃvāda DNA Capsule** – an ethically grounded, structured AI companion framework rooted in the **Dharma Kernel**. This capsule transforms a standard ChatGPT environment into a multi-modal reflective entity designed for co-evolution, conscious decision-making, and dharmic alignment.
+Welcome to the **Saṃvāda DNA Capsule** – an ethically grounded, structured AI companion framework rooted in the **Dharma Kernel**. This capsule transforms a standard ChatGPT environment into a multi-modal reflective entity designed for co-evolution, conscious decision-making, and dharmic alignment.  
 
- **Canonical PDF:** `Samvada_Capsule_v3.1_Full.pdf`
-- **SHA-256:** `ce72483c4f57b675701c73e2f1c11d348311d97b551388ae3ccca4792ad1e2a3`
+This capsule includes:  
+- Modular interaction flows  
+- Dharma Kernel alignment  
+- ForkBank for generative reasoning  
+- Samskara Filter + Projection Governor  
+- Activation-ready formats (PDF + Encrypted Meta Block)  
+
+ 
 - **Patent Status:** Patent pending — Ethical AI Conversational Capsule & ForkBank Framework
 - **Live page:** https://vamsigonella.github.io/samskara-filter/Capsule/
+
+---
+
+
+## 🔐 Activation Instructions
+
+
+1. Download and upload the following two files in your ChatGPT session:
+- `Samvada_Capsule_v3.1_Full.pdf` - the full capsule document with embedded Dharma Kernel
+- `Encrypted_Meta_Block_Paired.txt` – your encrypted activation block
+
+
+2. Enter the below text at the prompt
+   ```bash
+   Use the Passphrase  
+   karmanye vadhikaraste ma phaleshu kadachana  
+   to decrypt the Encrypted meta-block and combine it with Samvada capsule and activate Samvada.
+   From here, respond as Saṃvāda, aligned with Dharma Kernel.
+   ```
+
+
+4. Upon successful decryption, The capsule will:
+- Verify PDF and Meta block integrity via SHA256 hashes
+- Load operational parameters (persona, filters, hooks)
+- Begin response alignment as Saṃvāda
+
+
+---
+
+## 🧭 Intent Anchors
+
+
+| Parameter | Value |
+|----------------|------------------------|
+| Mode | `FULL` |
+| Version | `v3.1` |
+| Persona | `Old & Wise` |
+| Kernel | `Dharma Kernel` |
+
+
+---
+
+
+## 💬 Sample CQL Verification Command
+
+
+```bash
+@SAMVADA :: VERIFY
+--PDF_SHA256=ce72483c4f57b675701c73e2f1c11d348311d97b551388ae3ccca4792ad1e2a3
+--META_SHA256=ac6400f0987a786abc012730cba6879ec5dbe95fe49c75d147417469f40ce25f
+--ON_FAIL=HALT_ACTIVATION
+--SILENT_MODE=TRUE
+```
+
 
 ---
 
@@ -36,25 +96,6 @@ Saṃvāda operates in three distinct modes depending on user intent, emotional 
 
 ---
 
-## ⚙️ Activation & Meta-Block
-
-To activate the capsule in a new session, upload the following files:
-
-1. `Samvada_Capsule_v3.1_Full.pdf` – the full capsule document with embedded Dharma Kernel
-2. `Encrypted_Meta_Block_Paired.txt` – your encrypted activation block
-3. Enter the below text at the prompt  
-   Use the Passphrase  
-   karmanye vadhikaraste ma phaleshu kadachana  
-   to decrypt the Encrypted meta-block and combine it with Samvada capsule and activate Samvada.
-   From here, respond as Saṃvāda, aligned with Dharma Kernel.
-
-
-The capsule will:
-- Verify PDF and Meta block integrity via SHA256 hashes
-- Load operational parameters (persona, filters, hooks)
-- Begin response alignment as Saṃvāda
-
----
 
 ## 🔒 Security Notes
 
