@@ -1,3 +1,11 @@
+![Samvada Mode Flow](Samvada_Mode_Flow.png)
+
+### Visual Mode Flow
+This diagram illustrates how Samvāda adapts across different interaction modes:
+- **Heated Debate**: Filters emotional spikes through samskara layers and governs projections.
+- **Creative Brainstorming**: Seeds and forks ideas while preserving alignment.
+- **Personal Reflection**: Invokes charioteer mode for thoughtful action.
+
 
 
 
