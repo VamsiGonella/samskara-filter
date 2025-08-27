@@ -8,7 +8,7 @@ Welcome to the **Saṃvāda DNA Capsule** – an ethically grounded, structured 
  **Canonical PDF:** `Samvada_Capsule_v3.1_Full.pdf`
 - **SHA-256:** `ce72483c4f57b675701c73e2f1c11d348311d97b551388ae3ccca4792ad1e2a3`
 - **Patent Status:** Patent pending — Ethical AI Conversational Capsule & ForkBank Framework
-- **Live page:** https://vamsigonella.github.io/samskara-filter/capsule/
+- **Live page:** https://vamsigonella.github.io/samskara-filter/Capsule/
 
 ---
 
