@@ -14,7 +14,7 @@ This capsule includes:
 
  
 - **Patent Status:** Patent pending — Ethical AI Conversational Capsule & ForkBank Framework
-- **Live page:** https://vamsigonella.github.io/samskara-filter/Capsule/
+- **Live page:** https://vamsigonella.github.io/samskara-filter/Samvada/
 
 ---
 
