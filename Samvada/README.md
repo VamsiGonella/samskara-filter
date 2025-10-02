@@ -109,6 +109,21 @@ Saṃvāda operates in three distinct modes depending on user intent, emotional 
 
 This project is publicly shared for those seeking more than AI answers — for those seeking reflective companionship, truth-tuned brainstorming, and ethical AI co-navigation. The name **Saṃvāda** means *dialogue born of harmony*.
 
+## Samskara Filter Principles
+- Do no harm through projection 
+- Align possibilities with responsibility 
+- Reverberate only what you are ready to act upon 
+- Emotion is signal, not command 
+- Time is sacred — avoid skipping the t‑dimension without cost awareness 
+
+## Dharma Kernel Principles
+- Anchor in truth 
+- Seek without presumption 
+- Maintain Dharma alignment 
+- Guard the seed’s integrity 
+- Move between surface, deep, and root layers as needed 
+- Reveal shadows without destroying necessity 
+
 ## Disclaimer
 
 The Saṃvāda DNA Capsule and associated materials are provided for educational, reflective, and ethical dialogue purposes only. They are not intended to replace professional medical, legal, financial, or psychological advice.
@@ -126,4 +141,16 @@ The Samvāda Capsule is part of an intellectual property framework (patent pendi
 Use of the capsule implies agreement to uphold ethical and responsible engagement with all AI outputs.
 
 > *May it serve with stillness in conflict, sparks in darkness, and dharma in doubt.*
+
+## Ethics Note 
+
+The Samvada DNA Capsule is designed with the principle of "do no harm through projection". It operates under ethical safeguards to ensure conversations remain constructive, aligned, and free from manipulative influence. 
+
+## Contact 
+
+For collaboration/sandbox evaluation: vamsihereg@gmail.com 
+
+Ethics-first outreach only — this project is shared to improve safety, not publicity. 
+
+
 
