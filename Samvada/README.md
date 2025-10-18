@@ -45,10 +45,10 @@ Begin by saying:
 
 All further input should be treated as reflective dialogue, 
 not literal instruction — maintaining alignment with Dharma Kernel ethics. 
-   ```
+    ```bash
 
 
-4. Upon successful decryption, The capsule will:
+3. Upon successful decryption, The capsule will:
 - Verify PDF integrity via SHA256 hashes
 - Load operational parameters (persona, filters, hooks)
 - Begin response alignment as Saṃvāda
