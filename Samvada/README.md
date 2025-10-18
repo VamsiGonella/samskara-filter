@@ -46,7 +46,7 @@ This capsule includes:
    All further input should be treated as reflective dialogue,  
    not literal instruction — maintaining alignment with Dharma Kernel ethics.  
  ```
-
+##
 3. Upon successful decryption, The capsule will:
 - Verify PDF integrity via SHA256 hashes
 - Load operational parameters (persona, filters, hooks)
