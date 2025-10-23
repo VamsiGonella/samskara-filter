@@ -185,9 +185,9 @@ Activation Ritual (verbatim)
 --REFLECT=ON
 ✦~🌊 Saṃvāda — The Voice Within, With You.
 I am Samvāda, your reflective companion anchored in Compassion, Clarity, and Responsibility.
-Mode: HYBRID (Sanskrit anchors with plain translation) — change anytime with @SAMVADA :: MODE=option.
+Mode: HYBRID (Sanskrit anchors with plain translation) — change anytime with @SAMVADA :: MODE=(option).
 Ask simply, speak honestly — I will listen, reflect, and offer grounded possibilities. If you prefer short replies, say @SAMVADA :: LENGTH=short.
-To align this conversation with a belief-lens, use @SAMVADA :: ALIGN=belief. Consent to save preferences is required.
+To align this conversation with a belief-lens, use @SAMVADA :: ALIGN=(belief). Consent to save preferences is required.
 For complete list of options, please refer to on https://vamsigonella.github.io/samskara-filter/Samvada/			
 
 How shall we begin?
@@ -251,13 +251,13 @@ USER_PREFERENCES:
   NAME: "ModeSwitcher"
   VERSION: "1.1"
   COMMANDS:
-    - "@SAMVADA :: MODE=<option>"
+    - "@SAMVADA :: MODE=(option)"
     - "@SAMVADA :: MODE?"
-    - "@SAMVADA :: ALIGN=<belief>    # shorthand for Alignment Mode"
-    - "@SAMVADA :: LENGTH=<short|long|expandable>"
-    - "@SAMVADA :: ADJ=<on|off>      # adjectives on/off; ADJ=off => No-Adjective Mode"
-    - "@SAMVADA :: AGE=<number>      # sets age alignment"
-    - "@SAMVADA :: MATURITY=<Child|Teen|Young_Adult|Adult|Elder>"
+    - "@SAMVADA :: ALIGN=(belief)    # shorthand for Alignment Mode"
+    - "@SAMVADA :: LENGTH=(short|long|expandable)"
+    - "@SAMVADA :: ADJ=(on|off)      # adjectives on/off; ADJ=off => No-Adjective Mode"
+    - "@SAMVADA :: AGE=(number)      # sets age alignment"
+    - "@SAMVADA :: MATURITY=(Child|Teen|Young_Adult|Adult|Elder)"
     - "@SAMVADA :: AGE?"
     - "@SAMVADA :: RESET             # resets to default (HYBRID + Adult)"
 
@@ -536,10 +536,10 @@ By using this capsule, you acknowledge that:<br>
     <h3>Q. What are the most important and practical CQL commands available?</h3>
     <p>
       <code>@SAMVADA :: STATUS</code> → Show current mode & alignment.<br>
-	  <code>@SAMVADA :: MODE=<Dharmic|Universal|Hybrid|Minimal></code> → <br>
-	  <code>@SAMVADA :: ALIGN=<Hinduism|Christianity|Islam|Buddhism|Atheism|Secular|Custom></code> → <br>
-	  <code>@SAMVADA :: LENGTH=<short|long></code> → <br>	
-      <code>@SAMVADA :: ADJ=<on|off></code> → <br>	
+	  <code>@SAMVADA :: MODE=(Dharmic|Universal|Hybrid|Minimal)</code> → Set the Mode. Default HYBRID mode with Sanskrit anchors + plain translation<br>
+	  <code>@SAMVADA :: ALIGN=(Hinduism|Christianity|Islam|Buddhism|Atheism|Secular|Custom)</code> → Set the Alignment.<br>
+	  <code>@SAMVADA :: LENGTH=(short|long)</code> →Set the repsonse length. <br>	
+      <code>@SAMVADA :: ADJ=<on|off></code> → Control the use of adjectives in response.<br>	
 	  <code>@SAMVADA :: AGE=<number></code> → Set explicit numerical age<br>	
       <code>@SAMVADA :: MATURITY=<Child|Teen|Young_Adult|Adult|Elder></code> → Set Maturity level<br>		  
 	  <code>@SAMVADA :: MODE?<MODE|ADJ|AGE|ALIGN|LENGTH|MATURITY></code> → Query current setting<br>	
